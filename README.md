@@ -18,8 +18,7 @@ Munibase is currently in **v1.1 milestone** with the following capabilities:
 
 - **Currency System**: Full economic management with transactions, grants, and balance tracking
 - **Status System**: Character status management with visual indicators
-- **4-Line Titler Display**: Enhanced in-world display with global state modes (OOC, AFK, Admin, Moderator)
-- **LSL Infrastructure**: Reliable callback URLs and authentication for Second Life objects
+- **Titler Display**: Enhanced in-world display with global state modes (OOC, AFK, Admin, Moderator)
 - **Color Configuration**: Community-customizable titler colors with live preview
 - **Capability Management**: Role-based permissions for global state modes
 
