@@ -1,14 +1,14 @@
 ---
-name: Feature request
-about: Suggest a new feature or enhancement for Munibase
-title: '[FEATURE] '
-labels: enhancement
+name: Outline Feature Request
+about: Suggest a new feature or enhancement for the Outline document platform
+title: '[OUTLINE FEATURE] '
+labels: outline, enhancement
 assignees: ''
 ---
 
 ## Feature Description
 
-A clear and concise description of the feature you'd like to see in Munibase.
+A clear and concise description of the Outline feature you would like to see.
 
 ## Problem or Use Case
 
@@ -21,34 +21,29 @@ What problem does this feature solve? What use case does it address?
 
 Describe how you envision this feature working. Be as detailed as possible:
 
-- What would the user interface look like?
+- What would the document or workspace experience look like?
 - How would users interact with this feature?
-- What would happen in Second Life (for in-world features)?
-- What would happen in the web interface (for admin features)?
+- What permissions or roles would be involved?
+- What should integrate with Munibase, if anything?
 
 ## Alternative Solutions
 
-Have you considered any alternative approaches or workarounds? If so, please describe them and why they might not be ideal.
+Have you considered any alternative approaches or workarounds?
 
 ## Benefits
 
 Who would benefit from this feature?
+
 - [ ] Community administrators
 - [ ] Community moderators
 - [ ] Citizens/members
 - [ ] Developers/technical staff
 - [ ] All users
 
-## Related Features
-
-Is this feature related to or dependent on existing functionality? Please mention:
-- Existing features this would enhance
-- Other systems this would integrate with
-- Any potential conflicts or considerations
-
 ## Priority
 
 How important is this feature to your community?
+
 - [ ] Critical - Needed for basic operations
 - [ ] High - Would significantly improve experience
 - [ ] Medium - Nice to have enhancement
@@ -57,5 +52,3 @@ How important is this feature to your community?
 ## Additional Context
 
 Add any other context, screenshots, mockups, or examples about the feature request here.
-
-Examples from other systems or communities are welcome if they help illustrate your idea.
