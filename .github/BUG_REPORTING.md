@@ -1,9 +1,7 @@
-# Reporting implementation bugs
+# Report a Munibase problem
 
-Implementation bugs and operational incidents are not tracked in this public roadmap repository.
+Use `/report-bug` in your community's Discord server when that command is enabled. The bot lets you review the report before you confirm it and gives you a private receipt reference. Keep that reference for follow-up with community staff; you do not need a GitHub account.
 
-If you are an authorized member of a Munibase community, use the role-gated `/bug` command in that community's Discord server. The bot will show a private modal, let you review the normalized report, and return a private receipt after submission.
+If the command is unavailable, contact community staff privately. Staff can clarify your report and tell you the outcome. Do not put private report details in this historical repository.
 
-If the Discord intake is unavailable or not yet enabled, contact your community administrator. Do not post the report publicly and do not ask for access to the private implementation tracker.
-
-For a sensitive vulnerability, credential exposure, or exploit detail, use the [private Security Advisory form](https://github.com/nacklequack/munibase-development/security/advisories/new). Never place sensitive details in a public issue or Discord bug report.
+For a security vulnerability, exposed credential, or exploit, contact a maintainer through your community's established private security channel. Do not submit sensitive details through the Discord bug command or a public issue.
