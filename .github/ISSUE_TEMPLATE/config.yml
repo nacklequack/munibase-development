@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Report an implementation bug privately
+  - name: Report a Munibase problem
     url: https://github.com/nacklequack/munibase-development/blob/main/.github/BUG_REPORTING.md
-    about: Learn how authorized community members can use the role-gated Discord bug intake without posting private details here.
-  - name: Report a sensitive vulnerability
-    url: https://github.com/nacklequack/munibase-development/security/advisories/new
-    about: Privately report exploit details, credential exposure, or another sensitive vulnerability.
+    about: Use your community's Discord /report-bug command, or contact community staff privately.
+  - name: Suggest a feature or get help
+    url: https://github.com/nacklequack/munibase-development#suggest-a-feature-or-get-help
+    about: Contact community staff privately. This repository is retained as readable history.
